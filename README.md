@@ -1,2 +1,2 @@
 # circularbuffer
-circular buffer implementation
+Implementation of circular buffer
